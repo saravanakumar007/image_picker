@@ -314,42 +314,40 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.0.2"
-  image_picker:
-    dependency: "direct main"
-    description:
-      path: "."
-      ref: main
-      resolved-ref: ad986a532df5607b9e7024c75d77a8e16113b4a6
-      url: "https://github.com/saravanakumar007/image_picker.git"
-    source: git
-    version: "1.0.4"
   image_picker_android:
     dependency: transitive
     description:
       path: "."
       ref: main
-      resolved-ref: ab3746d889f2ad0b9bf203a7eeb08f958ae25051
-      url: "https://github.com/saravanakumar007/image_picker_android.git"
+      resolved-ref: be6931c3ed30826ad834bc9a5cd9cdf0ee407cbf
+      url: "git@github.com:saravanakumar007/image_picker_android.git"
     source: git
-    version: "0.8.7+5"
+    version: "1.0.0"
   image_picker_ios:
     dependency: transitive
     description:
       path: "."
       ref: main
-      resolved-ref: a4ed4803952e5ca42e3587d68417fdf60c3043f8
-      url: "https://github.com/saravanakumar007/image_picker_ios.git"
+      resolved-ref: "7c4da5dfb69a0e1705e158c729d33cad6c0534f1"
+      url: "git@github.com:saravanakumar007/image_picker_ios.git"
     source: git
-    version: "0.8.11+2"
-  image_picker_platform_interface:
+    version: "1.0.0"
+  img_picker:
+    dependency: "direct main"
+    description:
+      path: ".."
+      relative: true
+    source: path
+    version: "1.0.0"
+  img_picker_platform_interface:
     dependency: "direct main"
     description:
       path: "."
       ref: main
-      resolved-ref: "45038944ae1a0ef73b34bca7e5c0bce97e32f2e5"
-      url: "https://github.com/saravanakumar007/image_picker_platform_interface.git"
+      resolved-ref: "1200e6fe915f9fbfd958307ec9467b55427444cd"
+      url: "git@github.com:saravanakumar007/image_picker_platform_interface.git"
     source: git
-    version: "2.9.1"
+    version: "3.0.0"
   integration_test:
     dependency: "direct dev"
     description: flutter

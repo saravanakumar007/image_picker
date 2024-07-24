@@ -10,8 +10,12 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_plugin_android_lifecycle: ^2.0.1
-  img_picker: 1.0.0
-  img_picker_platform_interface: 2.9.1
+  img_picker:
+   path: ../../image_picker
+  img_picker_platform_interface:
+    git:
+     url: git@github.com:saravanakumar007/image_picker_platform_interface.git
+     ref: main
   mime: ^1.0.4
   video_player: ^2.1.4
 

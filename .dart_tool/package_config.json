@@ -206,20 +206,20 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "img_picker_android",
-      "rootUri": "file:///Users/saravanakumark/.pub-cache/hosted/pub.dev/img_picker_android-1.0.0",
+      "name": "image_picker_android",
+      "rootUri": "file:///Users/saravanakumark/.pub-cache/git/image_picker_android-be6931c3ed30826ad834bc9a5cd9cdf0ee407cbf/",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
-      "name": "img_picker_ios",
-      "rootUri": "file:///Users/saravanakumark/.pub-cache/hosted/pub.dev/img_picker_ios-1.0.0",
+      "name": "image_picker_ios",
+      "rootUri": "file:///Users/saravanakumark/.pub-cache/git/image_picker_ios-7c4da5dfb69a0e1705e158c729d33cad6c0534f1/",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "img_picker_platform_interface",
-      "rootUri": "file:///Users/saravanakumark/.pub-cache/hosted/pub.dev/img_picker_platform_interface-2.9.1",
+      "rootUri": "file:///Users/saravanakumark/.pub-cache/git/image_picker_platform_interface-1200e6fe915f9fbfd958307ec9467b55427444cd/",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -422,7 +422,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2024-07-24T14:59:21.736844Z",
+  "generated": "2024-07-24T19:54:05.144115Z",
   "generator": "pub",
   "generatorVersion": "2.19.6"
 }
