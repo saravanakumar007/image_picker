@@ -267,32 +267,29 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.0.2"
-  image_picker_android:
+  img_picker_android:
     dependency: "direct main"
     description:
-      path: "."
-      ref: main
-      resolved-ref: ab3746d889f2ad0b9bf203a7eeb08f958ae25051
-      url: "https://github.com/saravanakumar007/image_picker_android.git"
-    source: git
-    version: "0.8.7+5"
-  image_picker_ios:
+      name: img_picker_android
+      sha256: "003d3bf06babb5d7ab554581aa36a7540ce759462537de0d8fb6a9c55dad1a0e"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0"
+  img_picker_ios:
     dependency: "direct main"
     description:
-      path: "."
-      ref: main
-      resolved-ref: a4ed4803952e5ca42e3587d68417fdf60c3043f8
-      url: "https://github.com/saravanakumar007/image_picker_ios.git"
-    source: git
-    version: "0.8.11+2"
-  image_picker_platform_interface:
+      name: img_picker_ios
+      sha256: "16c7c9d445de091deb065a00f56c2a65221db52a2b580c89ac76ebe554907f95"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0"
+  img_picker_platform_interface:
     dependency: "direct main"
     description:
-      path: "."
-      ref: main
-      resolved-ref: "45038944ae1a0ef73b34bca7e5c0bce97e32f2e5"
-      url: "https://github.com/saravanakumar007/image_picker_platform_interface.git"
-    source: git
+      name: img_picker_platform_interface
+      sha256: "37754092f6cc063a19b75cbd4657efc315e5ae4082ec5a50071a2c40fc256934"
+      url: "https://pub.dev"
+    source: hosted
     version: "2.9.1"
   io:
     dependency: transitive

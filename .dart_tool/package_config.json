@@ -206,20 +206,20 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "image_picker_android",
-      "rootUri": "file:///Users/saravanakumark/.pub-cache/git/image_picker_android-ab3746d889f2ad0b9bf203a7eeb08f958ae25051/",
+      "name": "img_picker_android",
+      "rootUri": "file:///Users/saravanakumark/.pub-cache/hosted/pub.dev/img_picker_android-1.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
-      "name": "image_picker_ios",
-      "rootUri": "file:///Users/saravanakumark/.pub-cache/git/image_picker_ios-a4ed4803952e5ca42e3587d68417fdf60c3043f8/",
+      "name": "img_picker_ios",
+      "rootUri": "file:///Users/saravanakumark/.pub-cache/hosted/pub.dev/img_picker_ios-1.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
-      "name": "image_picker_platform_interface",
-      "rootUri": "file:///Users/saravanakumark/.pub-cache/git/image_picker_platform_interface-45038944ae1a0ef73b34bca7e5c0bce97e32f2e5/",
+      "name": "img_picker_platform_interface",
+      "rootUri": "file:///Users/saravanakumark/.pub-cache/hosted/pub.dev/img_picker_platform_interface-2.9.1",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -416,13 +416,13 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "image_picker",
+      "name": "img_picker",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2024-07-24T12:18:14.602661Z",
+  "generated": "2024-07-24T14:54:04.602526Z",
   "generator": "pub",
   "generatorVersion": "2.19.6"
 }
