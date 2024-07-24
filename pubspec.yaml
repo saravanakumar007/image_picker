@@ -28,9 +28,9 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
-  img_picker_android: 1.0.0
-  img_picker_ios: 1.0.0
-  img_picker_platform_interface: 2.9.1
+  img_picker_android: ^1.0.0
+  img_picker_ios: ^1.0.0
+  img_picker_platform_interface: ^2.9.1
 
 dev_dependencies:
   build_runner: ^2.1.10
