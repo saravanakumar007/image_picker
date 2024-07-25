@@ -1,14 +1,8 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:img_picker_android/img_picker_android.dart';
 import 'package:img_picker_platform_interface/img_picker_platform_interface.dart';
 
 void main() {
-  final ImagePickerPlatform imagePickerImplementation =
-      ImagePickerPlatform.instance;
-  if (imagePickerImplementation is ImagePickerAndroid) {
-    imagePickerImplementation.useAndroidPhotoPicker = true;
-  }
   runApp(const MyApp());
 }
 
