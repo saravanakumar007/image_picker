@@ -5,8 +5,6 @@ repository: https://github.com/saravanakumar007/image_picker
 issue_tracker: https://github.com/saravanakumar007/image_picker/issues
 version: 1.0.1
 
-publish_to: 'https://pub.dev/packages/img_picker'
-
 environment:
   sdk: ">=2.19.0 <4.0.0"
   flutter: ">=3.7.0"
