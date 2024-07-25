@@ -314,11 +314,27 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.0.2"
-  img_picker_android:
+  img_picker:
     dependency: "direct main"
     description:
+      name: img_picker
+      sha256: "05a9ec72aed7033355773430c3760504b88b8ccc16fb45e9c9ae83e1bbbdeee0"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.1"
+  img_picker_android:
+    dependency: transitive
+    description:
       name: img_picker_android
-      sha256: e5af0c0496a6db3c5c8706d50b11c8745dcfe1760c13effebed9d861ffccfcea
+      sha256: "1bd183b08c5b12b690aaa2a18b589cf4816d2f19fd7e8620fe9c2c6a619acffb"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.2"
+  img_picker_ios:
+    dependency: transitive
+    description:
+      name: img_picker_ios
+      sha256: bde838d7a9fcafcdde6183c701a31d6b846b7b761714ed3438b3f25ac406ac55
       url: "https://pub.dev"
     source: hosted
     version: "1.0.1"
@@ -326,10 +342,10 @@ packages:
     dependency: transitive
     description:
       name: img_picker_platform_interface
-      sha256: "37754092f6cc063a19b75cbd4657efc315e5ae4082ec5a50071a2c40fc256934"
+      sha256: b33367f332f1ad9f7174a4e02b8932376c15a79d5d3aef34cca139832558e2bd
       url: "https://pub.dev"
     source: hosted
-    version: "2.9.1"
+    version: "3.0.0"
   integration_test:
     dependency: "direct dev"
     description: flutter
